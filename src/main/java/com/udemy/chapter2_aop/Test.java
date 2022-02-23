@@ -13,10 +13,10 @@ public class Test {
         uLibrary.getMagazine();
         sLibrary.getBook();
         sLibrary.getMagazine();
-        uLibrary.returnBook();
-        uLibrary.returnMagazine();
-        sLibrary.returnBook();
-        sLibrary.returnMagazine();
+//        uLibrary.returnBook();
+//        uLibrary.returnMagazine();
+//        sLibrary.returnBook();
+//        sLibrary.returnMagazine();
 
 
         context.close();
