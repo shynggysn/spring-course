@@ -4,7 +4,7 @@
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
     <bean id="myPet"
-        class="com.udemy.chapter1_IoCandDI.Dog">
+          class="com.udemy.chapter1_IoCandDI.Dog">
     </bean>
 
     <bean id="myPerson"

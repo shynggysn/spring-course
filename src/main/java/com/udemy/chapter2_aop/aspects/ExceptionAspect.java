@@ -11,7 +11,7 @@ import org.springframework.stereotype.Component;
 public class ExceptionAspect {
 
     @Before("com.udemy.chapter2_aop.aspects.MyPointcuts.allGetMethods()")
-    public void beforeGetExceptionAdvice(){
+    public void beforeGetExceptionAdvice() {
         System.out.println("beforeGetExceptionAdvice: обрабатываем исключения при попытке получить книгу/журнал");
     }
 }

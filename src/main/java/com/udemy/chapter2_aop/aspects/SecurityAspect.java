@@ -11,7 +11,7 @@ import org.springframework.stereotype.Component;
 public class SecurityAspect {
 
     @Before("com.udemy.chapter2_aop.aspects.MyPointcuts.allGetMethods()")
-    public void beforeGetSecurityAdvice(){
+    public void beforeGetSecurityAdvice() {
         System.out.println("beforeGetSecurityAdvice: проверка прав при попытке получить книгу/журнал");
     }
 }

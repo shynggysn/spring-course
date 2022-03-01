@@ -11,12 +11,12 @@ import org.springframework.stereotype.Component;
 public class LoggingAspect {
 
     @Before("com.udemy.chapter2_aop.aspects.MyPointcuts.allGetMethods()")
-    public void beforeGetLoggingAdvice(){
+    public void beforeGetLoggingAdvice() {
         System.out.println("beforeGetLoggingAdvice: логирование при попытке получить книгу");
     }
 
     @Before("execution(* return*())")
-    public void beforeReturnLoggingAdvice(){
+    public void beforeReturnLoggingAdvice() {
         System.out.println("beforeReturnLoggingAdvice: логирование при попытке вернуть книгу");
     }
 }

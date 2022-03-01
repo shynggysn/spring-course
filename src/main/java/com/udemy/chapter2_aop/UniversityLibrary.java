@@ -3,7 +3,7 @@ package com.udemy.chapter2_aop;
 import org.springframework.stereotype.Component;
 
 @Component
-public class UniversityLibrary extends Library{
+public class UniversityLibrary extends Library {
 
     @Override
     public void getBook() {
