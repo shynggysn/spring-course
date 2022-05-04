@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="466d164d-7973-4c8b-bc70-0df92d2152df" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/chapter1_IoCandDI/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter2_AOP/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter3_Hibernate/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter3_Hibernate/src/main/java/com/udemy/manytomany/entity/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter3_Hibernate/src/main/java/com/udemy/manytomany/entity/Section.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter3_Hibernate/src/main/java/com/udemy/manytomany/tests/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4_spring-mvc/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter5_mvc-hibernate-aop/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Hibernate_5_4_11_5_4_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/FastInfoset-1.2.15.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/antlr-2.7.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/byte-buddy-1.10.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/classmate-1.5.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/dom4j-2.1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hibernate-commons-annotations-5.1.0.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hibernate-core-5.4.11.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/istack-commons-runtime-3.0.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/jandex-2.1.1.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javassist-3.24.0-GA.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax.activation-api-1.2.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax.persistence-api-2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/jaxb-api-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/jaxb-runtime-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/jboss-logging-3.3.2.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/jboss-transaction-api_1.2_spec-1.1.1.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/stax-ex-1.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/txw2-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3_Hibernate/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_course.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/chapter1_IoCandDI/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1_IoCandDI/src/main/java/com/udemy/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/chapter1_IoCandDI/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1_IoCandDI/src/main/java/com/udemy/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/chapter1_IoCandDI/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1_IoCandDI/src/main/java/com/udemy/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/chapter1_IoCandDI/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1_IoCandDI/src/main/java/com/udemy/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/chapter1_IoCandDI/Pet.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1_IoCandDI/src/main/java/com/udemy/Pet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/chapter2_aop/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2_AOP/src/main/java/com/udemy/Library.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/chapter2_aop/MyConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2_AOP/src/main/java/com/udemy/MyConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/chapter2_aop/SchoolLibrary.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2_AOP/src/main/java/com/udemy/SchoolLibrary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/chapter2_aop/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2_AOP/src/main/java/com/udemy/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/chapter2_aop/UniversityLibrary.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2_AOP/src/main/java/com/udemy/UniversityLibrary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/chapter2_aop/aspects/ExceptionAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2_AOP/src/main/java/com/udemy/aspects/ExceptionAspect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/chapter2_aop/aspects/LoggingAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2_AOP/src/main/java/com/udemy/aspects/LoggingAspect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/chapter2_aop/aspects/MyPointcuts.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2_AOP/src/main/java/com/udemy/aspects/MyPointcuts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/chapter2_aop/aspects/SecurityAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2_AOP/src/main/java/com/udemy/aspects/SecurityAspect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/chapter3_hibernate/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3_Hibernate/src/main/java/com/udemy/onetomany/tests/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/chapter3_hibernate/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3_Hibernate/src/main/java/com/udemy/onetomany/tests/Test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/chapter3_hibernate/Test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3_Hibernate/src/main/java/com/udemy/onetomany/tests/Test3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/chapter3_hibernate/entity/Department.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3_Hibernate/src/main/java/com/udemy/onetomany/entity/Department.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/chapter3_hibernate/entity/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3_Hibernate/src/main/java/com/udemy/onetomany/entity/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/udemy/chapter3_hibernate/sql.sql" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3_Hibernate/src/main/java/com/udemy/onetomany/tests/sql.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/udemy/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1_IoCandDI/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/udemy/chapter1_IoCandDI/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/udemy/chapter1_IoCandDI/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/udemy/chapter1_IoCandDI/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/udemy/chapter1_IoCandDI/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/udemy/chapter1_IoCandDI/Pet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/udemy/chapter2_aop/Library.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/udemy/chapter2_aop/MyConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/udemy/chapter2_aop/SchoolLibrary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/udemy/chapter2_aop/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/udemy/chapter2_aop/UniversityLibrary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/udemy/chapter2_aop/aspects/ExceptionAspect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/udemy/chapter2_aop/aspects/LoggingAspect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/udemy/chapter2_aop/aspects/MyPointcuts.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/udemy/chapter2_aop/aspects/SecurityAspect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/udemy/chapter3_hibernate/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/udemy/chapter3_hibernate/Test2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/udemy/chapter3_hibernate/Test3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/udemy/chapter3_hibernate/entity/Department.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/udemy/chapter3_hibernate/entity/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hibernate.cfg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3_Hibernate/src/main/java/com/udemy/manytomany/sql.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/udemy/AppTest.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="hibernate-configuration-5.2" />
+        <option value="hibernate-main-5.2" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="25DunmfEPtDCMwduph0g3JJ6GnL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/networks/tez/service" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.15174507" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\IdeaProjects\spring_course\chapter3_Hibernate\src\main\java\com\udemy\onetomany\tests" />
+      <recent name="C:\Users\user\IdeaProjects\spring_course" />
+      <recent name="C:\Users\user\IdeaProjects\spring_course\chapter3_Hibernate" />
+      <recent name="C:\Users\user\IdeaProjects\spring_course\chapter3_Hibernate\src\main\resources" />
+      <recent name="C:\Users\user\IdeaProjects\spring_course\chapter1_IoCandDI\src\main" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.udemy" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.udemy.onetomany.tests.Test" />
+      <module name="chapter3_Hibernate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.udemy.onetomany.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.udemy.Test" />
+      <module name="chapter2_AOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.udemy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.udemy.manytomany.tests.Test1" />
+      <module name="chapter3_Hibernate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.udemy.manytomany.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.udemy.onetomany.tests.Test2" />
+      <module name="chapter3_Hibernate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.udemy.onetomany.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.udemy.onetomany.tests.Test3" />
+      <module name="chapter3_Hibernate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.udemy.onetomany.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Test1" />
+        <item itemvalue="Application.Test2" />
+        <item itemvalue="Application.Test3" />
+        <item itemvalue="Application.Test (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="466d164d-7973-4c8b-bc70-0df92d2152df" name="Changes" comment="" />
+      <created>1645074150346</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645074150346</updated>
+      <workItem from="1645074151925" duration="9811000" />
+      <workItem from="1645523306867" duration="5568000" />
+      <workItem from="1645590762154" duration="8714000" />
+      <workItem from="1645675513034" duration="3312000" />
+      <workItem from="1646126816219" duration="6923000" />
+      <workItem from="1646143325518" duration="5574000" />
+      <workItem from="1646298476246" duration="7361000" />
+      <workItem from="1646385563312" duration="3164000" />
+      <workItem from="1646912643704" duration="816000" />
+      <workItem from="1646972032080" duration="6779000" />
+      <workItem from="1646998826857" duration="2056000" />
+      <workItem from="1647232470440" duration="5002000" />
+      <workItem from="1647256670114" duration="174000" />
+      <workItem from="1647256857861" duration="56000" />
+      <workItem from="1647256926155" duration="2483000" />
+      <workItem from="1647259467863" duration="5152000" />
+      <workItem from="1647319020926" duration="4345000" />
+      <workItem from="1647403775382" duration="602000" />
+      <workItem from="1651655307276" duration="2048000" />
+      <workItem from="1651658109198" duration="755000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

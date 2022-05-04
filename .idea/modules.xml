@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/chapter1_IoCandDI/chapter1_IoCandDI.iml" filepath="$PROJECT_DIR$/chapter1_IoCandDI/chapter1_IoCandDI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter2_AOP/chapter2_AOP.iml" filepath="$PROJECT_DIR$/chapter2_AOP/chapter2_AOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter3_Hibernate/chapter3_Hibernate.iml" filepath="$PROJECT_DIR$/chapter3_Hibernate/chapter3_Hibernate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter4_spring-mvc/chapter4_spring-mvc.iml" filepath="$PROJECT_DIR$/chapter4_spring-mvc/chapter4_spring-mvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter5_mvc-hibernate-aop/chapter5_mvc-hibernate-aop.iml" filepath="$PROJECT_DIR$/chapter5_mvc-hibernate-aop/chapter5_mvc-hibernate-aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_course.iml" filepath="$PROJECT_DIR$/spring_course.iml" />
+    </modules>
+  </component>
+</project>

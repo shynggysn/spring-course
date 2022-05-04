@@ -6,8 +6,20 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="spring_course" />
+        <module name="chapter2_AOP" />
+        <module name="chapter4_spring-mvc" />
+        <module name="chapter1_IoCandDI" />
+        <module name="chapter5_mvc-hibernate-aop" />
+        <module name="chapter3_Hibernate" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="chapter1_IoCandDI" target="1.8" />
+      <module name="chapter2_AOP" target="1.8" />
+      <module name="chapter3_Hibernate" target="1.8" />
+      <module name="chapter4_spring-mvc" target="8" />
+      <module name="chapter5_mvc-hibernate-aop" target="1.7" />
+      <module name="spring_course" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

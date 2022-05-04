@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="chapter5_mvc-hibernate-aop:war">
+    <output-path>$PROJECT_DIR$/chapter5_mvc-hibernate-aop/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>false</exploded>
+        <module>chapter5_mvc-hibernate-aop</module>
+        <packaging>war</packaging>
+        <unpackNestedArchives>false</unpackNestedArchives>
+      </options>
+    </properties>
+    <root id="archive" name="chapter5_mvc-hibernate-aop.war">
+      <element id="artifact" artifact-name="chapter5_mvc-hibernate-aop:war exploded" />
+    </root>
+  </artifact>
+</component>
